@@ -3,6 +3,10 @@
 An AI-powered conversational agent that represents me (Sai Thanmayi) and interacts with users about my career, skills, and experience.
 
 It allows users to explore my profile, ask questions, and optionally share their contact details. If a user shows interest, the system sends a real-time notification.
+## 🌐 Live Demo
+
+Try the app here:
+👉 https://huggingface.co/Thanmayi6
 
 ---
 
