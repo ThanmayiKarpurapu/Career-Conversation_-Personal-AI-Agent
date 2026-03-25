@@ -1,4 +1,4 @@
-# 🤖 Career Conversation AI Agent
+# 🤖 Career Conversation AI Agent (Digital Twin)
 
 An AI-powered conversational agent that represents me (Sai Thanmayi) and interacts with users about my career, skills, and experience.
 
